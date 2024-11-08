@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-Hi, I'm **[Your Name]**, a passionate .NET developer and enthusiastic learner in software development and system building. I'm on a journey to expand my skills and create effective solutions. Here, you'll find projects I've worked on, the knowledge I've gained, and some of my favorite programming tools. 🚀
+Hi, I'm **[Mamdouh Nady]**, a passionate .NET developer and enthusiastic learner in software development and system building. I'm on a journey to expand my skills and create effective solutions. Here, you'll find projects I've worked on, the knowledge I've gained, and some of my favorite programming tools. 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -29,9 +29,9 @@ A Console-based Library Management System integrated with SQL Server. It allows 
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Vatrix0](https://github-readme-stats.vercel.app/api?username=Vatrix0&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatrix0&layout=compact&theme=radical)
 
 ---
 
@@ -41,7 +41,7 @@ A Console-based Library Management System integrated with SQL Server. It allows 
 [![Upwork](https://img.shields.io/badge/Upwork-Profile-brightgreen?style=flat&logo=upwork)](https://www.upwork.com/freelancers/YourProfile)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/YourProfile)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=flat&logo=facebook)](https://www.facebook.com/YourProfile)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=flat&logo=telegram)](https://t.me/YourProfile)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=flat&logo=telegram)](https://t.me/AZ_Z7)
 
 ---
 
